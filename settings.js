@@ -29,8 +29,7 @@ global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
 global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
-global.packname = '𝐏𝐒𝐏𝐎𝐎𝐒𝐀‏⃤‏༼͢🇦🇱
-0993944651'
+global.packname = '𝐏𝐒𝐏𝐎𝐎𝐒𝐀‏⃤‏༼͢🇦🇱 0993944651'
 global.author = '[حقوق الأسطورة]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
