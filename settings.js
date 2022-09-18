@@ -22,14 +22,14 @@ global.APIKeys = {
 global.owner = ['249993944651']
 global.premium = ['249993944651']
 global.ownernomer = '249993944651'
-global.ownername = '♛ بسبوس ♛'
-global.botname = '♛ بسبوس ♛'
-global.footer = 'غوجو بوت ♛'
+global.ownername = 'بسبوس'
+global.botname = 'بسبوس'
+global.footer = 'بسبوس'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/I2t980Jrp3zEjVum6kdsmU'
-global.myweb = 'https://youtu.be/gIW_MsfBXPg'
-global.packname = '𝐏𝐒𝐏𝐎𝐎𝐒𝐀‏⃤‏༼͢🇦🇱 249993944651'
+global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
+global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
+global.packname = '𝐏𝐒𝐏𝐎𝐎𝐒𝐀‏⃤‏༼͢🇦🇱'
 global.author = '[ حقوق الأسطورة ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -71,4 +71,3 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 })
-ك
